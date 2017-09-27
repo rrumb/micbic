@@ -13,7 +13,7 @@ def echo (bot, update):
 
 
 def main():
-    updater = Updater('472133412:AAG6XtiiuAqy26RdyJaGRSNsuk-EMnDEpNU')
+    updater = Updater('')
 
     dp = updater.dispatcher
 
