@@ -1,1 +1,1 @@
-web python micbic.py runserver 8000
+bot:  python micbic.py
